@@ -4,14 +4,16 @@ In 2019, we want to challenge Canadians to pause and think, learn about, share, 
 
 *January's theme is FUTURES.*
 
-See slide 27 for suggestions on how learners can incorporate this month’s theme into their projects - if they choose to participate. 
+See slide 27 for suggestions on how learners can incorporate this month’s theme into their projects - if they choose to participate.
 
 # Teachers Learning Code
 # Scratch for Educators
 
 ## Quick Links
 
-Preview Slides: https://ladieslearningcode.github.io/tlc-scratch-for-edu/slides-en.html
+Preview Full Day Slides: https://ladieslearningcode.github.io/tlc-scratch-for-edu/slides-en.html
+
+Preview 2-hour visit Slides (for Code Mobiles): https://ladieslearningcode.github.io/tlc-scratch-for-edu/slides-en-2hours.html
 
 Preview Notes: https://ladieslearningcode.github.io/tlc-scratch-for-edu/notes-en.html
 
