@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Canada en programmation</title>
+  <link rel="stylesheet" href="framework/css/slideshow.css" data-noprefix>
+  <link rel="stylesheet" href="framework/css/fonts.css" data-noprefix>
+  <link rel="stylesheet" href="framework/css/highlightjs/github.css" data-noprefix>
+  <link rel="stylesheet" href="framework/css/styles.css" data-noprefix>
+  <link rel="shortcut icon" href="framework/img/favicon.ico">
+
+  <!-- S'occupe des préfixes CSS3  -->
+  <script src="framework/scripts/prefixfree.min.js"></script>
+
+  <!-- Ouvre tous les liens dans une nouvelle fenêtre -->
+  <base target="_blank">
+</head>
+
+<!-- Minutage/barre de progression : entrez la durée de la présentation en minutes avec « data-duration ». -->
+<body class="en" data-duration="360">
+
+
+  <main>
+    <section class="slide welcome highlight">
+      <h1><img class="logo-stacked" src="framework/img/tlc-logo-stacked-white.png" alt="Logo de Femmes en programmation">Bienvenue!</h1>
+
+
+      <div class="instructions">
+        <!-- AJOUTEZ LES INFOS DU WI-FI -->
+        <h2>Connectez-<br>vous</h2>
+        <p><strong>Wi-Fi :</strong> nom du réseau</p>
+        <p><strong>Mot de passe :</strong> mot de passe</p>
+        <hr>
+
+        <h2>Téléchargez<br> et installez</h2>
+        <ol class="downloads">
+          <li>Fichiers d'apprentissage (dossier zip) : <a href="https://github.com/ladieslearningcode/tlc-scratch-for-edu/archive/master.zip">bit.ly/tlc-scratch-for-edu</a>
+            <ul>
+              <li>Dézippez le dossier de fichiers d'apprentissage (<em>Extraire tout</em> sur PC).</li>
+              <li>Ouvrez <em>slides-fr-2heures.html</em> dans le navigateur pour consulter les diapositives.</li>
+            </ul>
+          </li>
+          <li>Éditeur Scratch hors ligne : <a href="https://scratch.mit.edu/download">https://scratch.mit.edu/download</a></li>
+        </ol>
+    </div>
+
+    <footer>
+      <a class="left" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" src="framework/img/cc-by-nc.png" /></a>
+      <p class="left">Contenu créé par Kassandra Lenters pour <a prefix="cc: http://creativecommons.org/ns#" href="http://canadalearningcode.com" property="cc:attributionName" rel="cc:attributionURL">Canada en programmation</a></p>
+      <p class="right">Utilisez les flèches gauche <span class="arrow">&#8592;</span> et droite <span class="arrow">&#8594;</span> pour naviguer.</p>
+    </footer>
+  </section>
+
+    <section class="slide intro">
+      <img class="logo" src="framework/img/tlc-logo-white.png" alt="Logo de Canada en programmation">
+      <h1 class="heading-bg">
+        <span>Scratch pour les <br>enseignants</span>
+      </h1>
+
+      <ul>
+        <li><a href="http://twitter.com/learningcode">@learningcode</a></li>
+        <li><a href="https://twitter.com/search?q=%23teacherslearningcode&src=typd">#teacherslearningcode</a></li>
+      </ul>
+
+      <div class="sponsor">
+        <!--<p>En collaboration avec<br> <img src="framework/img/logo-white.svg" alt="nom"></p>-->
+      </div>
+      <footer>
+        <a class="left" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" src="framework/img/cc-by-nc.png" /></a>
+        <p class="left">Diapositives créées par <a href="http://christinatruong.com">Christina Truong</a> pour <a prefix="cc: http://creativecommons.org/ns#" href="http://canadalearningcode.com" property="cc:attributionName" rel="cc:attributionURL">Canada en programmation</a></p>
+        <p class="right">Utilisez les flèches gauche <span class="arrow">&#8592;</span> et droite <span class="arrow">&#8594;</span> pour naviguer.</p>
+      </footer>
+    </section>
+
+    <section class="slide title" data-markdown>
+      <script type="text/template">
+        #Introduction
+        ##Que souhaitez-vous apprendre?
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Le code des programmeurs
+
+        1. Soyez enthousiastes et accueillants.
+        1. Respectez les autres en choisissant bien vos mots et vos actions.
+        1. Laissez de la place aux autres pendant les discussions.
+        1. Posez des questions.
+        1. Faites de votre mieux (et amusez-vous!).
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Ordre du jour
+
+        * Activité brise-glace (hors ligne)
+        * Qu'est-ce que le code? / Pourquoi enseigner la programmation?
+        * Initiation à Scratch
+        * Activité d'art interactif
+        * Évaluation
+        * Idées de planification de cours
+        * La suite
+
+       </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Objectifs d'apprentissage
+
+        * Mieux comprendre la programmation et son importance<!-- .element: class="delayed" -->
+        * Se familiariser avec l'outil d'enseignement Scratch<!-- .element: class="delayed" -->
+        * Ressentir la satisfaction de créer la technologie plutôt que de la consommer<!-- .element: class="delayed" -->
+        * Découvrir les nombreuses ressources (gratuites) disponibles<!-- .element: class="delayed" -->
+        * Repartir chez soi avec un plan d'action pour la suite<!-- .element: class="delayed" -->
+
+       </script>
+    </section>
+
+    <section class="slide centered" data-markdown>
+      <script type="text/template">
+        # [teacherslearningcode.com](http://teacherslearningcode.com)
+
+        <img src="framework/img/workshop/tlcwebsite_fr.png" alt="Capture d'écran du site">
+
+        Vous trouverez les plans de cours de toutes les activités réalisées aujourd'hui <br>sur notre site Web.
+
+       </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Le robot
+
+        <img src="framework/img/workshop/robot.png" width="600px;" alt="Robot">
+
+
+          ---
+        <div class="dropdown">
+          <button class="dropbtn">Sources</button>
+          <div class="dropdown-content">
+            <a href="https://openclipart.org/detail/191072/blue-robot"> Vecteur de robot bleu par Scout</a>
+          </div>
+
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Objectifs d'apprentissage
+
+        * Nous avons utilisé des consignes simples et claires pour réaliser une tâche.<!-- .element: class="delayed" -->
+        * Nous avons créé un algorithme (un ensemble de directives à suivre pour résoudre un problème).<!-- .element: class="delayed" -->
+        * Nous avons appris l'importance des séquences en programmation : les ordinateurs comprennent et exécutent des commandes de haut en bas (l'ordre est important!).<!-- .element: class="delayed" -->
+
+      </script>
+    </section>
+
+    <section class="slide title" data-toc data-markdown>
+     <script type="text/template">
+       # Qu'est-ce que le code?
+     </script>
+    </section>
+
+    <section class="slide" data-markdown>
+     <script type= "text/template">
+       #Le code, c'est...
+       ## UN ENSEMBLE DE DIRECTIVES DISANT À L'ORDINATEUR QUOI FAIRE.
+
+       <br>
+       ![Gif de robot qui court](framework/img/workshop/runningrobot.gif)
+       ![Gif de robot qui danse](framework/img/workshop/dancingrobot.gif)
+       ![Gif de robot qui mange](framework/img/workshop/eatingrobot.gif)
+       ![Gif de robot qui danse](framework/img/workshop/dancingrobot2.gif)
+       ![Gif de robot qui danse](framework/img/workshop/bluerobot.gif)
+       ![Gif de robot qui danse](framework/img/workshop/partyrobot.gif)
+
+       <p> En programmation, un ensemble de directives s'appelle un <strong style="color:#ffce03;">algorithme</strong>.</p><!-- .element: class="delayed" -->
+
+     </script>
+    </section>
+
+    <section class="slide title" data-toc data-markdown>
+      <script type="text/template">
+        # Pourquoi enseigner la programmation?
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Il est important que les jeunes apprennent à programmer pour les raisons suivantes :
+
+        1. La programmation est un super-pouvoir.<!-- .element: class="delayed" -->
+        1. La programmation aide les jeunes à développer de nouvelles manières de penser.<!-- .element: class="delayed" -->
+        1. La programmation aide les jeunes à mieux comprendre la société.<!-- .element: class="delayed" -->
+        1. La programmation peut changer le monde.<!-- .element: class="delayed" -->
+        1. La programmation est amusante! <!-- .element: class="delayed" -->
+
+      </script>
+    </section>
+
+    <section class="slide title" data-toc data-markdown>
+      <script type="text/template">
+        # Outil d'enseignement : Scratch
+      </script>
+    </section>
+
+    <section class="slide two-col-list" data-markdown>
+      <script type="text/template">
+        # Scratch
+
+        * Pourquoi utiliser Scratch?
+          * Communauté
+          * Éditeur en ligne ou hors ligne
+          * Coût (gratuit!)
+          * Possibilités infinies
+          * Concepts + méthodes
+        * <img src="framework/img/workshop/scratch-cat.png" width="400px" alt="Scratch, logo">
+
+
+          ---
+        <div class="dropdown">
+          <button class="dropbtn">Sources</button>
+          <div class="dropdown-content">
+            <a href="https://scratch.mit.edu"> Scratch</a>
+          </div>
+
+      </script>
+    </section>
+
+    <section class="slide centered" data-markdown>
+      <script type="text/template">
+        # Éditeur Scratch
+
+        <img src="framework/img/workshop/scratch-editor_fr.png" alt="Éditeur Scratch">
+
+        ## [https://scratch.mit.edu](https://scratch.mit.edu)
+
+          ---
+        <div class="dropdown">
+          <button class="dropbtn">Sources</button>
+          <div class="dropdown-content">
+            <a href="https://scratch.mit.edu"> Éditeur Scratch</a>
+          </div>
+
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        # Démarrage
+
+        1. Ouvrez Scratch.
+          * Ouvrez l'éditeur hors ligne.
+          * OU accédez à l'adresse [https://scratch.mit.edu](https://scratch.mit.edu).
+        1. Créez un nouveau projet.
+
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        #Découvrons Scratch : exercices de programmation en groupe
+
+        <em>Cliquez sur « Créer » pour commencer!</em>
+
+        1. Faites bouger le lutin (sprite) Scratch.
+        1. Faites tourner le lutin Scratch.
+        1. Faites dire quelque chose au lutin Scratch quand la touche espace est pressée.
+        1. Ajoutez un nouveau lutin et un nouvel arrière-plan.
+
+        Il y a plusieurs manières d'arriver au même résultat. Essayez toutes les fonctions!
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        #Exercice : art interactif dans Scratch
+
+        Créez un nouveau projet dans Scratch (cliquez sur « Créer » en haut à gauche).
+
+        Consultez le projet final avant de commencer : <a href="https://scratch.mit.edu/projects/10015857">Peindre avec Gobo</a>.
+
+        <img src="framework/img/workshop/gobo-screenshot.png" alt="Gobo image">
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        # Objectifs d'apprentissage
+
+        * Nous avons créé une oeuvre d'art numérique avec le code.<!-- .element: class="delayed" -->
+        * Nous avons utilisé des boucles pour répéter des actions.<!-- .element: class="delayed" -->
+        * Nous avons utilisé des événements pour déterminer quand ont lieu les actions dans notre projet.<!-- .element: class="delayed" -->
+        * Nous avons utilisé des variables pour suivre et enregistrer des informations.<!-- .element: class="delayed" -->
+
+      </script>
+    </section>
+
+    <section class="slide title" data-toc data-markdown>
+      <script type="text/template">
+        # Partager + discuter
+        ## 3 éléments que vous avez appris
+        ## 2 liens avec le programme de formation
+        ## 1 élément à retenir ou à mettre en oeuvre
+      </script>
+    </section>
+
+    <section class="slide title" data-toc data-markdown>
+      <script type="text/template">
+        # Évaluation
+      </script>
+    </section>
+
+    <section class="slide two-col-list" data-toc data-markdown>
+      <script type="text/template">
+        # Comment évaluer les apprentissages dans Scratch
+
+        * <strong style="color:#ffce03;">STRATÉGIES</strong>
+          * Accent sur la démarche  (réflexion + discussion)
+          * Évaluation = apprentissage
+          * Critères de réussite créés en collaboration
+          * Les 5 C : (<strong>c</strong>ommunication, <strong>c</strong>ollaboration, <strong>c</strong>réativité, pensée <strong>c</strong>ritique, démarche de <strong>c</strong>réation)
+        * <strong style="color:#ffce03;">OUTILS</strong>
+          * Commentaires!
+          * Journal de conception (http://bit.ly/DJexample - en anglais)
+          * Rubrique de pensée informatique (http://bit.ly/CTrubric - en anglais)
+
+      </script>
+    </section>
+
+    <section class="slide title" data-toc data-markdown>
+      <script type="text/template">
+        # Idées de planification de cours
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        # Méthodes inspirées de Scratch
+
+        <strong>Créez</strong> : faites votre propre leçon, bloc par bloc (haha!)
+
+        <strong>Remixez</strong> : recherchez un sujet sur le site https://scratch.mit.edu/ et inspirez-vous d'une activité déjà créée (p.ex., « mesurer »).
+
+        <strong>Explorez</strong> : choisissez un plan de cours déjà disponible sur notre site [https://www.canadalearningcode.ca/fr/plans-de-cours/](https://www.canadalearningcode.ca/fr/plans-de-cours/) (p. ex., [« Paysages sonores de la faune »](https://www.canadalearningcode.ca/fr/lecons/paysages-sonores-de-la-faune/)).
+
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        #Prolongement : débogage
+
+        Qu'est-ce qu'un « bogue » en programmation?
+
+        <strong>Stratégies de débogage</strong>
+
+        * Itérer et essayer chaque étape
+        * Isoler le code
+        * Se rappeler du fonctionnement des ordinateurs
+
+        <strong>Ressources :</strong>
+
+        * [FAQ + corrigé des exercices de programmation en groupe](https://docs.google.com/document/d/1it1IadRawE_HuXgnE6WIA9DOSBzorHjS6H3yVdqQMGI/edit?usp=sharing)
+        * Exercices de débogage dans Scratch (prochaine diapositive)
+
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        #Prolongement : débogage
+
+        Réalisez quelques exercices de débogage : http://bit.ly/ScratchDebug
+
+        ### Le corrigé se trouve sous « Remix » en bas à droite de la page de l'exercice.
+
+        <br>
+        <img src="framework/img/workshop/debugging.png" alt="débogage de code">
+
+
+          ---
+        <div class="dropdown">
+          <button class="dropbtn">Sources</button>
+          <div class="dropdown-content">
+            <a href="https://www.embarcadero.com/images/free-tools/REST_Debugger_Logo_256x256px.png"> Débogage, logo</a>
+          </div>
+      </script>
+    </section>
+
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        #La suite
+        ##Ensemble, nous changerons le monde, une leçon de programmation à la fois.
+
+        Idées :
+
+        * Créez un <a href="https://scratch.mit.edu/educators/">compte Scratch pour enseignants</a>.
+        * Intégrez une activité hors ligne à votre planification hebdomadaire.
+        * Consacrez une journée de la semaine à des activités de programmation (p. ex., le jeudi techno).
+        * Partagez vos leçons de programmation avec la communauté d'Enseignants en programmation (<a href="mailto:content@canadalearningcode.ca">par courriel</a>).
+        * Demandez une visite de la <a href="https://www.canadalearningcode.ca/fr/code-mobile/">Code Mobile</a> dans votre école ou du soutien pour l'enseignement de la programmation.
+
+      </script>
+    </section>
+
+    <section class="slide centered" data-toc data-markdown>
+      <script type="text/template">
+        # Écrivez votre plan d'action pour la suite sur un papillon adhésif
+
+        <img src="framework/img/workshop/postit.jpg" width="400px" alt="Papillons adhésifs sur un mur">
+      </script>
+    </section>
+
+    <section class="slide two-col-list" data-toc data-markdown>
+      <script type="text/template">
+        # Ressources supplémentaires
+
+        * Coffre à outils numérique
+          * <a href="https://www.canadalearningcode.ca/wp-content/uploads/clc-teacher-digital-toolbox-guide-fr_FINAL-OCT242018-WEB.pdf">Guide de démarrage rapide</a>
+          * <a href="https://www.canadalearningcode.ca/wp-content/uploads/clc-teacher-getting-started-scratch-fr_WEB.pdf">Premiers pas avec Scratch </a>
+        * <img src="framework/img/workshop/fr-guide.png" style="border:2px solid #333333;" alt="couverture du coffre Scratch">
+
+      </script>
+    </section>
+
+    <main>
+      <section class="slide" data-toc data-markdown>
+        <script type="text/template">
+          # Maintenant, je sais que...
+
+          <p><strong>Je peux</strong> enseigner la pensée informatique sans technologie.</p><!-- .element: class="delayed" -->
+          <p><strong>Je peux</strong> enseigner la programmation de manière amusante pour les jeunes.</p><!-- .element: class="delayed" -->
+          <p><strong>Je peux</strong> enseigner à mon rythme, petit à petit.</p><!-- .element: class="delayed" -->
+          <p><strong>Je peux</strong> enseigner dès maintenant.</p><!-- .element: class="delayed" -->
+          <p><strong>Je peux</strong> y arriver!</p><!-- .element: class="delayed" -->
+
+        </script>
+      </section>
+
+
+      <!-- Dernière diapositive -->
+      <section class="slide last">
+        <h1>Merci!</h1>
+        <h2 class="heading-bg">
+          <span>Scratch pour les<br> enseignants</span>
+        </h2>
+
+        <ul>
+          <li><a href="http://twitter.com/learningcode">@learningcode</a></li>
+          <li><a href="https://twitter.com/search?q=%23teacherslearningcode&src=typd">#teacherslearningcode</a></li>
+        </ul>
+
+        <p class="attribution">Diapositives créées par <a href="http://christinatruong.com">Christina Truong</a> à partir de <a href="https://github.com/LeaVerou/csss">Lea Verou's SlideShow</a> et de <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>.</p>
+      </section>
+
+  </main><!-- section principale cls -->
+
+    <script src="framework/scripts/jquery-1.11.0.min.js"></script>
+    <script src="framework/scripts/slideshow.js"></script>
+
+    <!-- Enlevez les commentaires des modules dont vous avez besoin -->
+    <script src="framework/scripts/plugins/css-edit.js"></script>
+    <script src="framework/scripts/plugins/css-snippets.js"></script>
+    <script src="framework/scripts/plugins/css-controls.js"></script>
+    <!-- <script src="plugins/code-highlight.js"></script>-->
+
+    <script src="framework/scripts/plugins/markdown/marked.js"></script>
+    <script src="framework/scripts/plugins/markdown/markdown.js"></script>
+    <script src="framework/scripts/plugins/highlight/highlight-8.4.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="framework/scripts/llc.js"></script>
+    <script>
+      var slideshow = new SlideShow();
+
+      // Regroupe tous les éléments .snippet
+      var snippets = document.querySelectorAll('.snippet');
+      for(var i=0; i<snippets.length; i++) {
+        new CSSSnippet(snippets[i]);
+      }
+  </script>
+
+</body>
+</html>

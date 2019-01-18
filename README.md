@@ -1,3 +1,5 @@
+# English (Scroll down for French)
+
 ## This content is featured in a monthly theme!
 
 In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/monthly-themes/)
@@ -35,3 +37,44 @@ Here’s an easy way to attribute content back to us - please include it whereve
 ## Contributing
 
 Our general Rule of Thumb is that it's okay to add examples if you feel it could provide more context for your community. However, we ask that instructors do not remove anything, as the content is designed with intention, whether that be meeting specific learning objectives, or maintaining our organization’s culture through the design.  Any suggestions for revisions or updates can be submitted in Github via issues and pull requests. If submitting an issue, please include the slide number(s) in the title.
+
+# Français
+
+## Ce contenu fait partie d'un thème mensuel!
+
+En 2019, nous souhaitons encourager toute la population du Canada à discuter, à apprendre et à réfléchir à propos de thèmes précis et à travailler sur des solutions technologiques à des problèmes qui touchent toute la planète.
+Obtenez plus d'informations sur les thèmes mensuels en [cliquant ici](https://www.canadalearningcode.ca/monthly-themes/).
+
+*Le thème de janvier est l'AVENIR.*
+
+Consultez la diapositive n° 27 pour obtenir des suggestions pour intégrer le thème aux projets des apprenants, s'ils souhaitent participer au thème.
+
+# Enseignants en programmation
+# Scratch pour les enseignants
+
+## Liens rapides
+
+Aperçu des diapositives (atelier d'une journée complète) : https://ladieslearningcode.github.io/tlc-scratch-for-edu/slides-fr.html
+
+Aperçu des diapositives (visite de 2 heures, pour les Code Mobiles) : https://ladieslearningcode.github.io/tlc-scratch-for-edu/slides-fr-2heures.html
+
+Aperçu des notes : https://ladieslearningcode.github.io/tlc-scratch-for-edu/notes-fr.html
+
+## Attributions
+Contenu créé par Kassandra Lenters pour Canada en programmation, en collaboration avec Sharon Brown, Jaci Banton, Wilson Klodt Wong et Cael Nisbet.
+
+Diapositives créées par Christina Truong pour Canada en programmation.
+
+Envoyez vos questions et vos commentaires par courriel à l'adresse [content@canadalearningcode.ca](mailto:content@canadalearningcode.ca).
+
+Si vous souhaitez contribuer au développement de contenu pour les leçons, utilisez ce [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfJ8NSMKVAmzpdn3EAymxCbDDz3XZPxyDdmtQ87GECuvXzzDQ/viewform).
+
+Nous sommes ravis que d'autres personnes et organismes utilisent notre contenu avec leurs apprenants. C'est pourquoi nous l'avons créé spécialement pour le partage et l'utilisation avec attributions, conformément à la licence [Creative Commons (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Nous vous invitons à ajouter ce petit passage aux endroits où vous citez ou utilisez notre contenu afin de faire référence à notre organisme et lier notre site Web :
+
+« Bien que cet événement ne soit pas affilié à Canada en programmation, nous reconnaissons que l'organisme a créé le contenu [LIEN VERS LE CONTENU GITHUB] et que nous l'utilisons conformément à la licence Creative Commons. »
+
+## Contribution
+
+En général, vous avez le droit d'ajouter des exemples si vous jugez qu'ils soutiennent l'apprentissage de votre groupe d'apprenants. Toutefois, nous demandons aux formatrices de ne pas supprimer de contenu, car chaque élément a sa raison d'être. Par exemple, le contenu sert à atteindre un objectif d'apprentissage précis et la conception graphique reflète la culture de notre organisme. Si vous avez des suggestions ou croyez qu'un certain contenu doit être modifié, soumettez vos commentaires par Github (problèmes (issues) ou requêtes (pull requests)). Si vous soumettez un problème, veuillez inclure le numéro des diapositives dans le titre.
