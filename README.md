@@ -2,7 +2,7 @@
 
 ## This content is featured in a monthly theme!
 
-In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/monthly-themes/)
+In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/code-can-change-the-world/)
 
 *January's theme is FUTURES.*
 
@@ -43,7 +43,7 @@ Our general Rule of Thumb is that it's okay to add examples if you feel it could
 ## Ce contenu fait partie d'un thème mensuel!
 
 En 2019, nous souhaitons encourager toute la population du Canada à discuter, à apprendre et à réfléchir à propos de thèmes précis et à travailler sur des solutions technologiques à des problèmes qui touchent toute la planète.
-Obtenez plus d'informations sur les thèmes mensuels en [cliquant ici](https://www.canadalearningcode.ca/monthly-themes/).
+Obtenez plus d'informations sur les thèmes mensuels en [cliquant ici](https://www.canadalearningcode.ca/fr/le-code-a-le-potentiel-de-changer-le-monde/).
 
 *Le thème de janvier est l'AVENIR.*
 
