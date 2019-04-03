@@ -1,5 +1,5 @@
 # English (Scroll down for French)
-
+<!--
 ## This content is featured in a monthly theme!
 
 In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/code-can-change-the-world/)
@@ -7,7 +7,7 @@ In 2019, we want to challenge Canadians to pause and think, learn about, share, 
 *January's theme is FUTURES.*
 
 See slide 27 for suggestions on how learners can incorporate this month’s theme into their projects - if they choose to participate.
-
+-->
 # Teachers Learning Code
 # Scratch for Educators
 
@@ -39,7 +39,7 @@ Here’s an easy way to attribute content back to us - please include it whereve
 Our general Rule of Thumb is that it's okay to add examples if you feel it could provide more context for your community. However, we ask that instructors do not remove anything, as the content is designed with intention, whether that be meeting specific learning objectives, or maintaining our organization’s culture through the design.  Any suggestions for revisions or updates can be submitted in Github via issues and pull requests. If submitting an issue, please include the slide number(s) in the title.
 
 # Français
-
+<!--
 ## Ce contenu fait partie d'un thème mensuel!
 
 En 2019, nous souhaitons encourager toute la population du Canada à discuter, à apprendre et à réfléchir à propos de thèmes précis et à travailler sur des solutions technologiques à des problèmes qui touchent toute la planète.
@@ -48,7 +48,7 @@ Obtenez plus d'informations sur les thèmes mensuels en [cliquant ici](https://w
 *Le thème de janvier est l'AVENIR.*
 
 Consultez la diapositive n° 27 pour obtenir des suggestions pour intégrer le thème aux projets des apprenants, s'ils souhaitent participer au thème.
-
+-->
 # Enseignants en programmation
 # Scratch pour les enseignants
 
